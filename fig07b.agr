@@ -1,0 +1,2154 @@
+# Grace project file
+#
+@version 50125
+@page size 839, 592
+@page scroll 5%
+@page inout 5%
+@link page off
+@map font 12 to "Courier", "Courier"
+@map font 10 to "Courier-Bold", "Courier-Bold"
+@map font 14 to "Courier-BoldItalic", "Courier-BoldItalic"
+@map font 11 to "Courier-BoldOblique", "Courier-BoldOblique"
+@map font 16 to "Courier-Italic", "Courier-Italic"
+@map font 17 to "Courier-Oblique", "Courier-Oblique"
+@map font 18 to "Courier-Regular", "Courier-Regular"
+@map font 19 to "D050000L-Regular", "D050000L-Regular"
+@map font 20 to "Dingbats-Regular", "Dingbats-Regular"
+@map font 4 to "Helvetica", "Helvetica"
+@map font 5 to "Helvetica-Bold", "Helvetica-Bold"
+@map font 7 to "Helvetica-BoldOblique", "Helvetica-BoldOblique"
+@map font 6 to "Helvetica-Oblique", "Helvetica-Oblique"
+@map font 25 to "NimbusMonoL-Bold", "NimbusMonoL-Bold"
+@map font 26 to "NimbusMonoL-BoldOblique", "NimbusMonoL-BoldOblique"
+@map font 27 to "NimbusMonoL-Regular", "NimbusMonoL-Regular"
+@map font 28 to "NimbusMonoL-RegularOblique", "NimbusMonoL-RegularOblique"
+@map font 29 to "NimbusMonoPS-Bold", "NimbusMonoPS-Bold"
+@map font 30 to "NimbusMonoPS-BoldItalic", "NimbusMonoPS-BoldItalic"
+@map font 31 to "NimbusMonoPS-Italic", "NimbusMonoPS-Italic"
+@map font 32 to "NimbusMonoPS-Regular", "NimbusMonoPS-Regular"
+@map font 33 to "NimbusRoman-Bold", "NimbusRoman-Bold"
+@map font 34 to "NimbusRoman-BoldItalic", "NimbusRoman-BoldItalic"
+@map font 35 to "NimbusRoman-Italic", "NimbusRoman-Italic"
+@map font 36 to "NimbusRoman-Regular", "NimbusRoman-Regular"
+@map font 37 to "NimbusRomanNo9L-Medium", "NimbusRomanNo9L-Medium"
+@map font 38 to "NimbusRomanNo9L-MediumItalic", "NimbusRomanNo9L-MediumItalic"
+@map font 39 to "NimbusRomanNo9L-Regular", "NimbusRomanNo9L-Regular"
+@map font 40 to "NimbusRomanNo9L-RegularItalic", "NimbusRomanNo9L-RegularItalic"
+@map font 41 to "NimbusSans-Bold", "NimbusSans-Bold"
+@map font 42 to "NimbusSans-BoldItalic", "NimbusSans-BoldItalic"
+@map font 43 to "NimbusSans-Italic", "NimbusSans-Italic"
+@map font 44 to "NimbusSans-Regular", "NimbusSans-Regular"
+@map font 45 to "NimbusSansL-Bold", "NimbusSansL-Bold"
+@map font 46 to "NimbusSansL-BoldCondensed", "NimbusSansL-BoldCondensed"
+@map font 47 to "NimbusSansL-BoldCondensedItalic", "NimbusSansL-BoldCondensedItalic"
+@map font 48 to "NimbusSansL-BoldItalic", "NimbusSansL-BoldItalic"
+@map font 49 to "NimbusSansL-Regular", "NimbusSansL-Regular"
+@map font 50 to "NimbusSansL-RegularCondensed", "NimbusSansL-RegularCondensed"
+@map font 51 to "NimbusSansL-RegularCondensedItalic", "NimbusSansL-RegularCondensedItalic"
+@map font 52 to "NimbusSansL-RegularItalic", "NimbusSansL-RegularItalic"
+@map font 53 to "NimbusSansNarrow-Bold", "NimbusSansNarrow-Bold"
+@map font 54 to "NimbusSansNarrow-BoldOblique", "NimbusSansNarrow-BoldOblique"
+@map font 55 to "NimbusSansNarrow-Oblique", "NimbusSansNarrow-Oblique"
+@map font 56 to "NimbusSansNarrow-Regular", "NimbusSansNarrow-Regular"
+@map font 57 to "P052-Bold", "P052-Bold"
+@map font 58 to "P052-BoldItalic", "P052-BoldItalic"
+@map font 59 to "P052-Italic", "P052-Italic"
+@map font 60 to "P052-Roman", "P052-Roman"
+@map font 61 to "StandardSymbolsL-Regular", "StandardSymbolsL-Regular"
+@map font 62 to "StandardSymbolsPS-Regular", "StandardSymbolsPS-Regular"
+@map font 8 to "Symbol", "Symbol"
+@map font 1 to "Times-Bold", "Times-Bold"
+@map font 3 to "Times-BoldItalic", "Times-BoldItalic"
+@map font 2 to "Times-Italic", "Times-Italic"
+@map font 0 to "Times-Roman", "Times-Roman"
+@map font 68 to "URWBookman-Demi", "URWBookman-Demi"
+@map font 69 to "URWBookman-DemiItalic", "URWBookman-DemiItalic"
+@map font 70 to "URWBookman-Light", "URWBookman-Light"
+@map font 71 to "URWBookman-LightItalic", "URWBookman-LightItalic"
+@map font 72 to "URWBookmanL-DemiBold", "URWBookmanL-DemiBold"
+@map font 73 to "URWBookmanL-DemiBoldItalic", "URWBookmanL-DemiBoldItalic"
+@map font 74 to "URWBookmanL-Light", "URWBookmanL-Light"
+@map font 75 to "URWBookmanL-LightItalic", "URWBookmanL-LightItalic"
+@map font 76 to "URWChanceryL-MediumItalic", "URWChanceryL-MediumItalic"
+@map font 77 to "URWGothic-Book", "URWGothic-Book"
+@map font 78 to "URWGothic-BookOblique", "URWGothic-BookOblique"
+@map font 79 to "URWGothic-Demi", "URWGothic-Demi"
+@map font 80 to "URWGothic-DemiOblique", "URWGothic-DemiOblique"
+@map font 81 to "URWGothicL-Book", "URWGothicL-Book"
+@map font 82 to "URWGothicL-BookOblique", "URWGothicL-BookOblique"
+@map font 83 to "URWGothicL-Demi", "URWGothicL-Demi"
+@map font 84 to "URWGothicL-DemiOblique", "URWGothicL-DemiOblique"
+@map font 85 to "URWPalladioL-Bold", "URWPalladioL-Bold"
+@map font 86 to "URWPalladioL-BoldItalic", "URWPalladioL-BoldItalic"
+@map font 87 to "URWPalladioL-Italic", "URWPalladioL-Italic"
+@map font 88 to "URWPalladioL-Roman", "URWPalladioL-Roman"
+@map font 89 to "Utopia-Bold", "Utopia-Bold"
+@map font 90 to "Utopia-BoldItalic", "Utopia-BoldItalic"
+@map font 91 to "Utopia-Italic", "Utopia-Italic"
+@map font 92 to "Utopia-Regular", "Utopia-Regular"
+@map font 93 to "Z003-MediumItalic", "Z003-MediumItalic"
+@map font 9 to "ZapfDingbats", "ZapfDingbats"
+@map color 0 to (255, 255, 255), "white"
+@map color 1 to (0, 0, 0), "black"
+@map color 2 to (255, 0, 0), "red"
+@map color 3 to (0, 255, 0), "green"
+@map color 4 to (0, 0, 255), "blue"
+@map color 5 to (255, 255, 0), "yellow"
+@map color 6 to (188, 143, 143), "brown"
+@map color 7 to (220, 220, 220), "grey"
+@map color 8 to (148, 0, 211), "violet"
+@map color 9 to (0, 255, 255), "cyan"
+@map color 10 to (255, 0, 255), "magenta"
+@map color 11 to (255, 165, 0), "orange"
+@map color 12 to (114, 33, 188), "indigo"
+@map color 13 to (103, 7, 72), "maroon"
+@map color 14 to (64, 224, 208), "turquoise"
+@map color 15 to (0, 139, 0), "green4"
+@reference date 0
+@date wrap on
+@date wrap year 1900
+@default linewidth 1.0
+@default linestyle 1
+@default color 1
+@default pattern 1
+@default font 4
+@default char size 1.000000
+@default symbol size 1.000000
+@default sformat "%16.8g"
+@background color 0
+@page background fill off
+@timestamp off
+@timestamp 0.03, 0.03
+@timestamp color 1
+@timestamp rot 0
+@timestamp font 4
+@timestamp char size 1.000000
+@timestamp def "Wed Apr 10 13:28:42 2024"
+@with string
+@    string on
+@    string loctype view
+@    string 0.26, 0.63
+@    string color 1
+@    string rot 0
+@    string font 4
+@    string just 0
+@    string char size 1.500000
+@    string def "(b)"
+@r0 off
+@link r0 to g0
+@r0 type above
+@r0 linestyle 1
+@r0 linewidth 1.0
+@r0 color 1
+@r0 line 0, 0, 0, 0
+@r1 off
+@link r1 to g0
+@r1 type above
+@r1 linestyle 1
+@r1 linewidth 1.0
+@r1 color 1
+@r1 line 0, 0, 0, 0
+@r2 off
+@link r2 to g0
+@r2 type above
+@r2 linestyle 1
+@r2 linewidth 1.0
+@r2 color 1
+@r2 line 0, 0, 0, 0
+@r3 off
+@link r3 to g0
+@r3 type above
+@r3 linestyle 1
+@r3 linewidth 1.0
+@r3 color 1
+@r3 line 0, 0, 0, 0
+@r4 off
+@link r4 to g0
+@r4 type above
+@r4 linestyle 1
+@r4 linewidth 1.0
+@r4 color 1
+@r4 line 0, 0, 0, 0
+@g0 on
+@g0 hidden false
+@g0 type XY
+@g0 stacked false
+@g0 bar hgap 0.000000
+@g0 fixedpoint off
+@g0 fixedpoint type 0
+@g0 fixedpoint xy 0.000000, 0.000000
+@g0 fixedpoint format general general
+@g0 fixedpoint prec 6, 6
+@with g0
+@    world 20, 0, 10000000, 0.4
+@    stack world 0, 0, 0, 0
+@    znorm 1
+@    view 0.200000, 0.200000, 0.900000, 0.700000
+@    title ""
+@    title font 4
+@    title size 1.500000
+@    title color 1
+@    subtitle ""
+@    subtitle font 4
+@    subtitle size 1.000000
+@    subtitle color 1
+@    xaxes scale Logarithmic
+@    yaxes scale Normal
+@    xaxes invert off
+@    yaxes invert off
+@    xaxis  on
+@    xaxis  type zero false
+@    xaxis  offset 0.000000 , 0.000000
+@    xaxis  bar off
+@    xaxis  bar color 1
+@    xaxis  bar linestyle 1
+@    xaxis  bar linewidth 1.0
+@    xaxis  label "\q\8w\Q\4 / 10\S6\N rad s\S-1"
+@    xaxis  label layout para
+@    xaxis  label place auto
+@    xaxis  label char size 1.000000
+@    xaxis  label font 4
+@    xaxis  label color 1
+@    xaxis  label place normal
+@    xaxis  tick on
+@    xaxis  tick major 10
+@    xaxis  tick minor ticks 9
+@    xaxis  tick default 6
+@    xaxis  tick place rounded true
+@    xaxis  tick in
+@    xaxis  tick major size 1.000000
+@    xaxis  tick major color 1
+@    xaxis  tick major linewidth 1.0
+@    xaxis  tick major linestyle 1
+@    xaxis  tick major grid off
+@    xaxis  tick minor color 1
+@    xaxis  tick minor linewidth 1.0
+@    xaxis  tick minor linestyle 1
+@    xaxis  tick minor grid off
+@    xaxis  tick minor size 0.500000
+@    xaxis  ticklabel on
+@    xaxis  ticklabel format power
+@    xaxis  ticklabel prec 0
+@    xaxis  ticklabel formula ""
+@    xaxis  ticklabel append ""
+@    xaxis  ticklabel prepend ""
+@    xaxis  ticklabel angle 0
+@    xaxis  ticklabel skip 0
+@    xaxis  ticklabel stagger 0
+@    xaxis  ticklabel place normal
+@    xaxis  ticklabel offset auto
+@    xaxis  ticklabel offset 0.000000 , 0.010000
+@    xaxis  ticklabel start type auto
+@    xaxis  ticklabel start 0.000000
+@    xaxis  ticklabel stop type auto
+@    xaxis  ticklabel stop 0.000000
+@    xaxis  ticklabel char size 1.000000
+@    xaxis  ticklabel font 4
+@    xaxis  ticklabel color 1
+@    xaxis  tick place both
+@    xaxis  tick spec type none
+@    yaxis  on
+@    yaxis  type zero false
+@    yaxis  offset 0.000000 , 0.000000
+@    yaxis  bar off
+@    yaxis  bar color 1
+@    yaxis  bar linestyle 1
+@    yaxis  bar linewidth 1.0
+@    yaxis  label "\qR\Q\s1\N(\8\qw\Q\4 ) / s\S-1"
+@    yaxis  label layout para
+@    yaxis  label place auto
+@    yaxis  label char size 1.000000
+@    yaxis  label font 4
+@    yaxis  label color 1
+@    yaxis  label place normal
+@    yaxis  tick on
+@    yaxis  tick major 0.05
+@    yaxis  tick minor ticks 1
+@    yaxis  tick default 6
+@    yaxis  tick place rounded true
+@    yaxis  tick in
+@    yaxis  tick major size 1.000000
+@    yaxis  tick major color 1
+@    yaxis  tick major linewidth 1.0
+@    yaxis  tick major linestyle 1
+@    yaxis  tick major grid off
+@    yaxis  tick minor color 1
+@    yaxis  tick minor linewidth 1.0
+@    yaxis  tick minor linestyle 1
+@    yaxis  tick minor grid off
+@    yaxis  tick minor size 0.500000
+@    yaxis  ticklabel on
+@    yaxis  ticklabel format general
+@    yaxis  ticklabel prec 5
+@    yaxis  ticklabel formula ""
+@    yaxis  ticklabel append ""
+@    yaxis  ticklabel prepend ""
+@    yaxis  ticklabel angle 0
+@    yaxis  ticklabel skip 0
+@    yaxis  ticklabel stagger 0
+@    yaxis  ticklabel place normal
+@    yaxis  ticklabel offset auto
+@    yaxis  ticklabel offset 0.000000 , 0.010000
+@    yaxis  ticklabel start type auto
+@    yaxis  ticklabel start 0.000000
+@    yaxis  ticklabel stop type auto
+@    yaxis  ticklabel stop 0.000000
+@    yaxis  ticklabel char size 1.000000
+@    yaxis  ticklabel font 4
+@    yaxis  ticklabel color 1
+@    yaxis  tick place both
+@    yaxis  tick spec type none
+@    altxaxis  off
+@    altyaxis  off
+@    legend on
+@    legend loctype view
+@    legend 0.66, 0.67
+@    legend box color 1
+@    legend box pattern 0
+@    legend box linewidth 1.0
+@    legend box linestyle 1
+@    legend box fill color 0
+@    legend box fill pattern 0
+@    legend font 4
+@    legend char size 0.740000
+@    legend color 1
+@    legend length 3
+@    legend vgap 1
+@    legend hgap 0
+@    legend invert false
+@    frame type 0
+@    frame linestyle 1
+@    frame linewidth 2.5
+@    frame color 1
+@    frame pattern 1
+@    frame background color 0
+@    frame background pattern 0
+@    s0 hidden true
+@    s0 type xy
+@    s0 symbol 0
+@    s0 symbol size 1.000000
+@    s0 symbol color 7
+@    s0 symbol pattern 1
+@    s0 symbol fill color 7
+@    s0 symbol fill pattern 0
+@    s0 symbol linewidth 1.0
+@    s0 symbol linestyle 1
+@    s0 symbol char 65
+@    s0 symbol char font 4
+@    s0 symbol skip 0
+@    s0 line type 1
+@    s0 line linestyle 1
+@    s0 line linewidth 1.0
+@    s0 line color 7
+@    s0 line pattern 1
+@    s0 baseline type 0
+@    s0 baseline off
+@    s0 dropline off
+@    s0 fill type 2
+@    s0 fill rule 0
+@    s0 fill color 7
+@    s0 fill pattern 1
+@    s0 avalue off
+@    s0 avalue type 2
+@    s0 avalue char size 1.000000
+@    s0 avalue font 4
+@    s0 avalue color 1
+@    s0 avalue rot 0
+@    s0 avalue format general
+@    s0 avalue prec 3
+@    s0 avalue prepend ""
+@    s0 avalue append ""
+@    s0 avalue offset 0.000000 , 0.000000
+@    s0 errorbar on
+@    s0 errorbar place both
+@    s0 errorbar color 7
+@    s0 errorbar pattern 1
+@    s0 errorbar size 1.000000
+@    s0 errorbar linewidth 1.0
+@    s0 errorbar linestyle 1
+@    s0 errorbar riser linewidth 1.0
+@    s0 errorbar riser linestyle 1
+@    s0 errorbar riser clip off
+@    s0 errorbar riser clip length 0.100000
+@    s0 comment "/home/ptc/paschek/johanna/dipolar_relaxation/FreeDRelax/sdens/example/intra_test/R1_ccmd_up.dat"
+@    s0 legend  ""
+@    s1 hidden true
+@    s1 type xy
+@    s1 symbol 0
+@    s1 symbol size 1.000000
+@    s1 symbol color 7
+@    s1 symbol pattern 1
+@    s1 symbol fill color 7
+@    s1 symbol fill pattern 0
+@    s1 symbol linewidth 1.0
+@    s1 symbol linestyle 1
+@    s1 symbol char 65
+@    s1 symbol char font 4
+@    s1 symbol skip 0
+@    s1 line type 1
+@    s1 line linestyle 1
+@    s1 line linewidth 1.0
+@    s1 line color 7
+@    s1 line pattern 1
+@    s1 baseline type 0
+@    s1 baseline off
+@    s1 dropline off
+@    s1 fill type 2
+@    s1 fill rule 0
+@    s1 fill color 0
+@    s1 fill pattern 1
+@    s1 avalue off
+@    s1 avalue type 2
+@    s1 avalue char size 1.000000
+@    s1 avalue font 4
+@    s1 avalue color 1
+@    s1 avalue rot 0
+@    s1 avalue format general
+@    s1 avalue prec 3
+@    s1 avalue prepend ""
+@    s1 avalue append ""
+@    s1 avalue offset 0.000000 , 0.000000
+@    s1 errorbar on
+@    s1 errorbar place both
+@    s1 errorbar color 7
+@    s1 errorbar pattern 1
+@    s1 errorbar size 1.000000
+@    s1 errorbar linewidth 1.0
+@    s1 errorbar linestyle 1
+@    s1 errorbar riser linewidth 1.0
+@    s1 errorbar riser linestyle 1
+@    s1 errorbar riser clip off
+@    s1 errorbar riser clip length 0.100000
+@    s1 comment "/home/ptc/paschek/johanna/dipolar_relaxation/FreeDRelax/sdens/example/intra_test/R1_ccmd_down.dat"
+@    s1 legend  ""
+@    s2 hidden false
+@    s2 type xy
+@    s2 symbol 2
+@    s2 symbol size 1.000000
+@    s2 symbol color 1
+@    s2 symbol pattern 1
+@    s2 symbol fill color 0
+@    s2 symbol fill pattern 1
+@    s2 symbol linewidth 1.0
+@    s2 symbol linestyle 1
+@    s2 symbol char 65
+@    s2 symbol char font 4
+@    s2 symbol skip 0
+@    s2 line type 0
+@    s2 line linestyle 1
+@    s2 line linewidth 1.5
+@    s2 line color 1
+@    s2 line pattern 1
+@    s2 baseline type 0
+@    s2 baseline off
+@    s2 dropline off
+@    s2 fill type 0
+@    s2 fill rule 0
+@    s2 fill color 1
+@    s2 fill pattern 1
+@    s2 avalue off
+@    s2 avalue type 2
+@    s2 avalue char size 1.000000
+@    s2 avalue font 4
+@    s2 avalue color 1
+@    s2 avalue rot 0
+@    s2 avalue format general
+@    s2 avalue prec 3
+@    s2 avalue prepend ""
+@    s2 avalue append ""
+@    s2 avalue offset 0.000000 , 0.000000
+@    s2 errorbar on
+@    s2 errorbar place both
+@    s2 errorbar color 1
+@    s2 errorbar pattern 1
+@    s2 errorbar size 1.000000
+@    s2 errorbar linewidth 1.0
+@    s2 errorbar linestyle 1
+@    s2 errorbar riser linewidth 1.0
+@    s2 errorbar riser linestyle 1
+@    s2 errorbar riser clip off
+@    s2 errorbar riser clip length 0.100000
+@    s2 comment "/home/ptc/paschek/johanna/dipolar_relaxation/FreeDRelax/sdens/example/intra_test/R1_expt.dat"
+@    s2 legend  "total (NMR Krynicki)"
+@    s3 hidden false
+@    s3 type xy
+@    s3 symbol 0
+@    s3 symbol size 1.000000
+@    s3 symbol color 1
+@    s3 symbol pattern 1
+@    s3 symbol fill color 1
+@    s3 symbol fill pattern 0
+@    s3 symbol linewidth 1.0
+@    s3 symbol linestyle 1
+@    s3 symbol char 65
+@    s3 symbol char font 4
+@    s3 symbol skip 0
+@    s3 line type 1
+@    s3 line linestyle 1
+@    s3 line linewidth 1.0
+@    s3 line color 1
+@    s3 line pattern 1
+@    s3 baseline type 0
+@    s3 baseline off
+@    s3 dropline off
+@    s3 fill type 0
+@    s3 fill rule 0
+@    s3 fill color 1
+@    s3 fill pattern 1
+@    s3 avalue off
+@    s3 avalue type 2
+@    s3 avalue char size 1.000000
+@    s3 avalue font 4
+@    s3 avalue color 1
+@    s3 avalue rot 0
+@    s3 avalue format general
+@    s3 avalue prec 3
+@    s3 avalue prepend ""
+@    s3 avalue append ""
+@    s3 avalue offset 0.000000 , 0.000000
+@    s3 errorbar on
+@    s3 errorbar place both
+@    s3 errorbar color 1
+@    s3 errorbar pattern 1
+@    s3 errorbar size 1.000000
+@    s3 errorbar linewidth 1.0
+@    s3 errorbar linestyle 1
+@    s3 errorbar riser linewidth 0.0
+@    s3 errorbar riser linestyle 1
+@    s3 errorbar riser clip off
+@    s3 errorbar riser clip length 0.100000
+@    s3 comment "/home/ptc/paschek/johanna/dipolar_relaxation/FreeDRelax/sdens/example/intra_test/R1_total_298_ccmd.dat"
+@    s3 legend  "total (CCMD)"
+@    s4 hidden false
+@    s4 type xy
+@    s4 symbol 0
+@    s4 symbol size 1.000000
+@    s4 symbol color 11
+@    s4 symbol pattern 1
+@    s4 symbol fill color 11
+@    s4 symbol fill pattern 0
+@    s4 symbol linewidth 1.0
+@    s4 symbol linestyle 1
+@    s4 symbol char 65
+@    s4 symbol char font 4
+@    s4 symbol skip 0
+@    s4 line type 1
+@    s4 line linestyle 1
+@    s4 line linewidth 1.0
+@    s4 line color 11
+@    s4 line pattern 1
+@    s4 baseline type 0
+@    s4 baseline off
+@    s4 dropline off
+@    s4 fill type 0
+@    s4 fill rule 0
+@    s4 fill color 1
+@    s4 fill pattern 1
+@    s4 avalue off
+@    s4 avalue type 2
+@    s4 avalue char size 1.000000
+@    s4 avalue font 4
+@    s4 avalue color 1
+@    s4 avalue rot 0
+@    s4 avalue format general
+@    s4 avalue prec 3
+@    s4 avalue prepend ""
+@    s4 avalue append ""
+@    s4 avalue offset 0.000000 , 0.000000
+@    s4 errorbar on
+@    s4 errorbar place both
+@    s4 errorbar color 11
+@    s4 errorbar pattern 1
+@    s4 errorbar size 1.000000
+@    s4 errorbar linewidth 1.0
+@    s4 errorbar linestyle 1
+@    s4 errorbar riser linewidth 1.0
+@    s4 errorbar riser linestyle 1
+@    s4 errorbar riser clip off
+@    s4 errorbar riser clip length 0.100000
+@    s4 comment "/home/ptc/paschek/johanna/dipolar_relaxation/FreeDRelax/sdens/example/intra_test/R1_intra_298_ccmd.dat"
+@    s4 legend  "intra (CCMD)"
+@    s5 hidden false
+@    s5 type xy
+@    s5 symbol 0
+@    s5 symbol size 1.000000
+@    s5 symbol color 14
+@    s5 symbol pattern 1
+@    s5 symbol fill color 14
+@    s5 symbol fill pattern 0
+@    s5 symbol linewidth 1.0
+@    s5 symbol linestyle 1
+@    s5 symbol char 65
+@    s5 symbol char font 4
+@    s5 symbol skip 0
+@    s5 line type 1
+@    s5 line linestyle 1
+@    s5 line linewidth 1.0
+@    s5 line color 14
+@    s5 line pattern 1
+@    s5 baseline type 0
+@    s5 baseline off
+@    s5 dropline off
+@    s5 fill type 0
+@    s5 fill rule 0
+@    s5 fill color 1
+@    s5 fill pattern 1
+@    s5 avalue off
+@    s5 avalue type 2
+@    s5 avalue char size 1.000000
+@    s5 avalue font 4
+@    s5 avalue color 1
+@    s5 avalue rot 0
+@    s5 avalue format general
+@    s5 avalue prec 3
+@    s5 avalue prepend ""
+@    s5 avalue append ""
+@    s5 avalue offset 0.000000 , 0.000000
+@    s5 errorbar on
+@    s5 errorbar place both
+@    s5 errorbar color 14
+@    s5 errorbar pattern 1
+@    s5 errorbar size 1.000000
+@    s5 errorbar linewidth 1.0
+@    s5 errorbar linestyle 1
+@    s5 errorbar riser linewidth 1.0
+@    s5 errorbar riser linestyle 1
+@    s5 errorbar riser clip off
+@    s5 errorbar riser clip length 0.100000
+@    s5 comment "/home/ptc/paschek/johanna/dipolar_relaxation/FreeDRelax/sdens/example/inter_test/R1_inter_298_ccmd.dat"
+@    s5 legend  "inter (CCMD)"
+@    s6 hidden false
+@    s6 type xy
+@    s6 symbol 0
+@    s6 symbol size 1.000000
+@    s6 symbol color 1
+@    s6 symbol pattern 1
+@    s6 symbol fill color 1
+@    s6 symbol fill pattern 0
+@    s6 symbol linewidth 1.0
+@    s6 symbol linestyle 1
+@    s6 symbol char 65
+@    s6 symbol char font 4
+@    s6 symbol skip 0
+@    s6 line type 1
+@    s6 line linestyle 3
+@    s6 line linewidth 1.0
+@    s6 line color 1
+@    s6 line pattern 1
+@    s6 baseline type 0
+@    s6 baseline off
+@    s6 dropline off
+@    s6 fill type 0
+@    s6 fill rule 0
+@    s6 fill color 1
+@    s6 fill pattern 1
+@    s6 avalue off
+@    s6 avalue type 2
+@    s6 avalue char size 1.000000
+@    s6 avalue font 4
+@    s6 avalue color 1
+@    s6 avalue rot 0
+@    s6 avalue format general
+@    s6 avalue prec 3
+@    s6 avalue prepend ""
+@    s6 avalue append ""
+@    s6 avalue offset 0.000000 , 0.000000
+@    s6 errorbar on
+@    s6 errorbar place both
+@    s6 errorbar color 1
+@    s6 errorbar pattern 1
+@    s6 errorbar size 1.000000
+@    s6 errorbar linewidth 1.0
+@    s6 errorbar linestyle 1
+@    s6 errorbar riser linewidth 1.0
+@    s6 errorbar riser linestyle 1
+@    s6 errorbar riser clip off
+@    s6 errorbar riser clip length 0.100000
+@    s6 comment "/home/ptc/paschek/johanna/dipolar_relaxation/FreeDRelax/sdens/example/intra_test/R1_total_298_expt.dat"
+@    s6 legend  "total (Soper+Faux)"
+@    s7 hidden false
+@    s7 type xy
+@    s7 symbol 0
+@    s7 symbol size 1.000000
+@    s7 symbol color 11
+@    s7 symbol pattern 1
+@    s7 symbol fill color 11
+@    s7 symbol fill pattern 0
+@    s7 symbol linewidth 1.0
+@    s7 symbol linestyle 1
+@    s7 symbol char 65
+@    s7 symbol char font 4
+@    s7 symbol skip 0
+@    s7 line type 1
+@    s7 line linestyle 3
+@    s7 line linewidth 1.0
+@    s7 line color 11
+@    s7 line pattern 1
+@    s7 baseline type 0
+@    s7 baseline off
+@    s7 dropline off
+@    s7 fill type 0
+@    s7 fill rule 0
+@    s7 fill color 1
+@    s7 fill pattern 1
+@    s7 avalue off
+@    s7 avalue type 2
+@    s7 avalue char size 1.000000
+@    s7 avalue font 4
+@    s7 avalue color 1
+@    s7 avalue rot 0
+@    s7 avalue format general
+@    s7 avalue prec 3
+@    s7 avalue prepend ""
+@    s7 avalue append ""
+@    s7 avalue offset 0.000000 , 0.000000
+@    s7 errorbar on
+@    s7 errorbar place both
+@    s7 errorbar color 11
+@    s7 errorbar pattern 1
+@    s7 errorbar size 1.000000
+@    s7 errorbar linewidth 1.0
+@    s7 errorbar linestyle 1
+@    s7 errorbar riser linewidth 1.0
+@    s7 errorbar riser linestyle 1
+@    s7 errorbar riser clip off
+@    s7 errorbar riser clip length 0.100000
+@    s7 comment "/home/ptc/paschek/johanna/dipolar_relaxation/FreeDRelax/sdens/example/intra_test/R1_intra_298_expt.dat"
+@    s7 legend  "intra (Faux)"
+@    s8 hidden false
+@    s8 type xy
+@    s8 symbol 0
+@    s8 symbol size 1.000000
+@    s8 symbol color 14
+@    s8 symbol pattern 1
+@    s8 symbol fill color 14
+@    s8 symbol fill pattern 0
+@    s8 symbol linewidth 1.0
+@    s8 symbol linestyle 1
+@    s8 symbol char 65
+@    s8 symbol char font 4
+@    s8 symbol skip 0
+@    s8 line type 1
+@    s8 line linestyle 3
+@    s8 line linewidth 1.0
+@    s8 line color 14
+@    s8 line pattern 1
+@    s8 baseline type 0
+@    s8 baseline off
+@    s8 dropline off
+@    s8 fill type 0
+@    s8 fill rule 0
+@    s8 fill color 1
+@    s8 fill pattern 1
+@    s8 avalue off
+@    s8 avalue type 2
+@    s8 avalue char size 1.000000
+@    s8 avalue font 4
+@    s8 avalue color 1
+@    s8 avalue rot 0
+@    s8 avalue format general
+@    s8 avalue prec 3
+@    s8 avalue prepend ""
+@    s8 avalue append ""
+@    s8 avalue offset 0.000000 , 0.000000
+@    s8 errorbar on
+@    s8 errorbar place both
+@    s8 errorbar color 14
+@    s8 errorbar pattern 1
+@    s8 errorbar size 1.000000
+@    s8 errorbar linewidth 1.0
+@    s8 errorbar linestyle 1
+@    s8 errorbar riser linewidth 1.0
+@    s8 errorbar riser linestyle 1
+@    s8 errorbar riser clip off
+@    s8 errorbar riser clip length 0.100000
+@    s8 comment "/home/ptc/paschek/johanna/dipolar_relaxation/FreeDRelax/sdens/example/inter_test/R1_inter_298_expt.dat"
+@    s8 legend  "inter (Soper)"
+@target G0.S0
+@type xy
+               0         0.305434
+             1.1         0.305184
+            1.21         0.305172
+           1.331         0.305158
+          1.4641         0.305144
+         1.61051          0.30513
+        1.771561         0.305115
+       1.9487171         0.305099
+       2.1435888         0.305083
+       2.3579477         0.305066
+       2.5937425         0.305048
+       2.8531167         0.305029
+       3.1384284         0.305009
+       3.4522712         0.304989
+       3.7974983         0.304967
+       4.1772482         0.304944
+        4.594973          0.30492
+       5.0544703         0.304895
+       5.5599173         0.304869
+        6.115909         0.304841
+       6.7274999         0.304812
+       7.4002499         0.304782
+       8.1402749          0.30475
+       8.9543024         0.304716
+       9.8497327         0.304681
+       10.834706         0.304645
+       11.918177         0.304606
+       13.109994         0.304566
+       14.420994         0.304523
+       15.863093         0.304479
+       17.449402         0.304432
+       19.194342         0.304383
+       21.113777         0.304332
+       23.225154         0.304278
+        25.54767         0.304222
+       28.102437         0.304163
+       30.912681           0.3041
+       34.003949         0.304035
+       37.404343         0.303967
+       41.144778         0.303896
+       45.259256          0.30382
+       49.785181         0.303742
+       54.763699         0.303659
+       60.240069         0.303572
+       66.264076         0.303482
+       72.890484         0.303386
+       80.179532         0.303286
+       88.197485         0.303181
+       97.017234         0.303071
+       106.71896         0.302956
+       117.39085         0.302835
+       129.12994         0.302708
+       142.04293         0.302575
+       156.24723         0.302436
+       171.87195         0.302289
+       189.05914         0.302136
+       207.96506         0.301975
+       228.76156         0.301806
+       251.63772         0.301629
+       276.80149         0.301443
+       304.48164         0.301248
+        334.9298         0.301044
+       368.42278         0.300829
+       405.26506         0.300604
+       445.79157         0.300368
+       490.37073         0.300121
+        539.4078         0.299861
+       593.34858         0.299589
+       652.68344         0.299303
+       717.95178         0.299003
+       789.74696         0.298688
+       868.72165         0.298357
+       955.59382          0.29801
+       1051.1532         0.297646
+       1156.2685         0.297263
+       1271.8954         0.296861
+       1399.0849         0.296439
+       1538.9934         0.295995
+       1692.8927         0.295528
+        1862.182         0.295038
+       2048.4002         0.294522
+       2253.2402         0.293978
+       2478.5643         0.293405
+       2726.4207         0.292802
+       2999.0628         0.292166
+        3298.969         0.291495
+       3628.8659         0.290785
+       3991.7525         0.290034
+       4390.9278          0.28924
+       4830.0206         0.288399
+       5313.0226         0.287506
+       5844.3249         0.286557
+       6428.7574         0.285549
+       7071.6331         0.284474
+       7778.7964         0.283329
+        8556.676         0.282107
+       9412.3437         0.280803
+       10353.578         0.279408
+       11388.936         0.277915
+       12527.829         0.276316
+       13780.612         0.274602
+       15158.674         0.272759
+       16674.541         0.270775
+       18341.995         0.268633
+       20176.195         0.266314
+       22193.814         0.263798
+       24413.195         0.261068
+       26854.515         0.258107
+       29539.966         0.254897
+       32493.963         0.251401
+       35743.359         0.247558
+       39317.695         0.243289
+       43249.465          0.23855
+       47574.411         0.233363
+       52331.852         0.227734
+       57565.038         0.221556
+       63321.541         0.214757
+       69653.696         0.207474
+       76619.065         0.199689
+       84280.972         0.191212
+       92709.069         0.182224
+       101979.98         0.172727
+       112177.97         0.162836
+       123395.77         0.152677
+       135735.35         0.142246
+       149308.88         0.131795
+       164239.77         0.121504
+       180663.75         0.111187
+       198730.12         0.101271
+       218603.13         0.091612
+       240463.45        0.0824388
+       264509.79        0.0737584
+       290960.77        0.0656574
+       320056.85        0.0581741
+       352062.53        0.0512649
+       387268.79        0.0449651
+       425995.67        0.0392491
+       468595.23        0.0340478
+       515454.76        0.0293752
+       567000.23        0.0252417
+       623700.26        0.0215659
+       686070.28        0.0183566
+       754677.31         0.015541
+       830145.04        0.0131308
+       913159.54        0.0110668
+       1004475.5       0.00931034
+         1104923       0.00784997
+       1215415.4       0.00663199
+       1336956.9       0.00562531
+       1470652.6       0.00479608
+       1617717.8       0.00409392
+       1779489.6        0.0035305
+       1957438.6       0.00307337
+       2153182.4       0.00269409
+       2368500.7        0.0023842
+       2605350.8       0.00212654
+       2865885.8       0.00190498
+       3152474.4        0.0017141
+       3467721.9        0.0015424
+         3814494        0.0013869
+       4195943.4       0.00124095
+       4615537.8       0.00110488
+       5077091.6      0.000975335
+       5584800.7      0.000855461
+       6143280.8      0.000744158
+       6757608.9      0.000644779
+       7433369.8      0.000557761
+       8176706.7      0.000486818
+       8994377.4      0.000429035
+       9893815.1      0.000380126
+&
+@target G0.S1
+@type xy
+               0         0.293266
+             1.1         0.293016
+            1.21         0.293004
+           1.331          0.29299
+          1.4641         0.292976
+         1.61051         0.292962
+        1.771561         0.292947
+       1.9487171         0.292931
+       2.1435888         0.292915
+       2.3579477         0.292898
+       2.5937425          0.29288
+       2.8531167         0.292861
+       3.1384284         0.292841
+       3.4522712         0.292821
+       3.7974983         0.292799
+       4.1772482         0.292776
+        4.594973         0.292752
+       5.0544703         0.292727
+       5.5599173         0.292701
+        6.115909         0.292673
+       6.7274999         0.292644
+       7.4002499         0.292614
+       8.1402749         0.292582
+       8.9543024         0.292548
+       9.8497327         0.292513
+       10.834706         0.292477
+       11.918177         0.292438
+       13.109994         0.292398
+       14.420994         0.292355
+       15.863093         0.292311
+       17.449402         0.292264
+       19.194342         0.292215
+       21.113777         0.292164
+       23.225154          0.29211
+        25.54767         0.292054
+       28.102437         0.291995
+       30.912681         0.291932
+       34.003949         0.291867
+       37.404343         0.291799
+       41.144778         0.291728
+       45.259256         0.291652
+       49.785181         0.291574
+       54.763699         0.291491
+       60.240069         0.291404
+       66.264076         0.291314
+       72.890484         0.291218
+       80.179532         0.291118
+       88.197485         0.291013
+       97.017234         0.290903
+       106.71896         0.290788
+       117.39085         0.290667
+       129.12994          0.29054
+       142.04293         0.290407
+       156.24723         0.290268
+       171.87195         0.290121
+       189.05914         0.289968
+       207.96506         0.289807
+       228.76156         0.289638
+       251.63772         0.289461
+       276.80149         0.289275
+       304.48164          0.28908
+        334.9298         0.288876
+       368.42278         0.288661
+       405.26506         0.288436
+       445.79157           0.2882
+       490.37073         0.287953
+        539.4078         0.287693
+       593.34858         0.287421
+       652.68344         0.287135
+       717.95178         0.286835
+       789.74696          0.28652
+       868.72165         0.286189
+       955.59382         0.285842
+       1051.1532         0.285478
+       1156.2685         0.285095
+       1271.8954         0.284693
+       1399.0849         0.284271
+       1538.9934         0.283827
+       1692.8927         0.283362
+        1862.182         0.282872
+       2048.4002         0.282356
+       2253.2402         0.281812
+       2478.5643         0.281241
+       2726.4207         0.280638
+       2999.0628         0.280004
+        3298.969         0.279333
+       3628.8659         0.278625
+       3991.7525         0.277876
+       4390.9278         0.277084
+       4830.0206         0.276245
+       5313.0226         0.275354
+       5844.3249         0.274409
+       6428.7574         0.273405
+       7071.6331         0.272336
+       7778.7964         0.271197
+        8556.676         0.269983
+       9412.3437         0.268687
+       10353.578         0.267302
+       11388.936         0.265823
+       12527.829          0.26424
+       13780.612         0.262544
+       15158.674         0.260723
+       16674.541         0.258765
+       18341.995         0.256655
+       20176.195         0.254372
+       22193.814           0.2519
+       24413.195         0.249224
+       26854.515         0.246327
+       29539.966         0.243191
+       32493.963         0.239785
+       35743.359         0.236046
+       39317.695         0.231901
+       43249.465         0.227308
+       47574.411         0.222289
+       52331.852         0.216856
+       57565.038         0.210904
+       63321.541         0.204361
+       69653.696         0.197368
+       76619.065         0.189905
+       84280.972         0.181788
+       92709.069         0.173192
+       101979.98         0.164117
+       112177.97         0.154678
+       123395.77         0.144991
+       135735.35          0.13505
+       149308.88         0.125101
+       164239.77         0.115312
+       180663.75         0.105497
+       198730.12        0.0960722
+       218603.13        0.0868894
+       240463.45         0.078172
+       264509.79         0.069923
+       290960.77        0.0622258
+       320056.85        0.0551165
+       352062.53        0.0485507
+       387268.79        0.0425629
+       425995.67        0.0371285
+       468595.23        0.0321802
+       515454.76         0.027734
+       567000.23        0.0238023
+       623700.26        0.0203073
+       686070.28        0.0172598
+       754677.31        0.0145894
+       830145.04        0.0123078
+       913159.54        0.0103574
+       1004475.5       0.00869966
+         1104923       0.00732401
+       1215415.4       0.00617825
+       1336956.9       0.00523297
+       1470652.6       0.00445616
+       1617717.8       0.00379894
+       1779489.6       0.00327344
+       1957438.6       0.00284819
+       2153182.4       0.00249623
+       2368500.7       0.00220992
+       2605350.8       0.00197248
+       2865885.8       0.00176898
+       3152474.4       0.00159392
+       3467721.9       0.00143656
+         3814494       0.00129376
+       4195943.4       0.00115945
+       4615537.8       0.00103368
+       5077091.6      0.000913393
+       5584800.7      0.000801777
+       6143280.8       0.00069764
+       6757608.9      0.000604399
+       7433369.8      0.000522621
+       8176706.7      0.000455984
+       8994377.4      0.000401771
+       9893815.1         0.000356
+&
+@target G0.S2
+@type xy
+          175.93             0.28
+&
+@target G0.S3
+@type xy
+               0         0.298996
+             1.1         0.298746
+            1.21         0.298733
+           1.331         0.298719
+          1.4641         0.298705
+         1.61051         0.298691
+        1.771561         0.298676
+       1.9487171         0.298661
+       2.1435888         0.298644
+       2.3579477         0.298627
+       2.5937425         0.298609
+       2.8531167          0.29859
+       3.1384284         0.298571
+       3.4522712          0.29855
+       3.7974983         0.298528
+       4.1772482         0.298505
+        4.594973         0.298481
+       5.0544703         0.298456
+       5.5599173          0.29843
+        6.115909         0.298402
+       6.7274999         0.298373
+       7.4002499         0.298343
+       8.1402749         0.298311
+       8.9543024         0.298278
+       9.8497327         0.298243
+       10.834706         0.298206
+       11.918177         0.298167
+       13.109994         0.298127
+       14.420994         0.298084
+       15.863093          0.29804
+       17.449402         0.297993
+       19.194342         0.297944
+       21.113777         0.297893
+       23.225154         0.297839
+        25.54767         0.297783
+       28.102437         0.297724
+       30.912681         0.297662
+       34.003949         0.297597
+       37.404343         0.297528
+       41.144778         0.297457
+       45.259256         0.297382
+       49.785181         0.297303
+       54.763699          0.29722
+       60.240069         0.297134
+       66.264076         0.297043
+       72.890484         0.296947
+       80.179532         0.296847
+       88.197485         0.296743
+       97.017234         0.296633
+       106.71896         0.296517
+       117.39085         0.296396
+       129.12994          0.29627
+       142.04293         0.296136
+       156.24723         0.295997
+       171.87195         0.295851
+       189.05914         0.295697
+       207.96506         0.295536
+       228.76156         0.295367
+       251.63772          0.29519
+       276.80149         0.295004
+       304.48164         0.294809
+        334.9298         0.294605
+       368.42278         0.294391
+       405.26506         0.294166
+       445.79157          0.29393
+       490.37073         0.293682
+        539.4078         0.293422
+       593.34858          0.29315
+       652.68344         0.292864
+       717.95178         0.292564
+       789.74696         0.292249
+       868.72165         0.291918
+       955.59382         0.291571
+       1051.1532         0.291207
+       1156.2685         0.290824
+       1271.8954         0.290422
+       1399.0849             0.29
+       1538.9934         0.289557
+       1692.8927          0.28909
+        1862.182           0.2886
+       2048.4002         0.288084
+       2253.2402          0.28754
+       2478.5643         0.286968
+       2726.4207         0.286365
+       2999.0628         0.285729
+        3298.969         0.285058
+       3628.8659         0.284349
+       3991.7525           0.2836
+       4390.9278         0.282807
+       4830.0206         0.281966
+       5313.0226         0.281074
+       5844.3249         0.280127
+       6428.7574         0.279121
+       7071.6331         0.278049
+       7778.7964         0.276907
+        8556.676         0.275689
+       9412.3437         0.274388
+       10353.578         0.272998
+       11388.936         0.271512
+       12527.829          0.26992
+       13780.612         0.268214
+       15158.674         0.266383
+       16674.541         0.264412
+       18341.995         0.262285
+       20176.195         0.259985
+       22193.814         0.257491
+       24413.195         0.254788
+       26854.515          0.25186
+       29539.966         0.248689
+       32493.963          0.24524
+       35743.359         0.241451
+       39317.695         0.237246
+       43249.465         0.232584
+       47574.411         0.227485
+       52331.852         0.221958
+       57565.038           0.2159
+       63321.541         0.209236
+       69653.696         0.202107
+       76619.065         0.194493
+       84280.972         0.186206
+       92709.069         0.177427
+       101979.98         0.168154
+       112177.97         0.158503
+       123395.77         0.148595
+       135735.35         0.138425
+       149308.88         0.128242
+       164239.77          0.11822
+       180663.75          0.10817
+       198730.12         0.098517
+       218603.13        0.0891122
+       240463.45        0.0801824
+       264509.79        0.0717325
+       290960.77        0.0638473
+       320056.85         0.056564
+       352062.53        0.0498382
+       387268.79        0.0437053
+       425995.67        0.0381397
+       468595.23        0.0330731
+       515454.76        0.0285207
+       567000.23        0.0244939
+       623700.26        0.0209131
+       686070.28        0.0177881
+       754677.31        0.0150476
+       830145.04        0.0127035
+       913159.54        0.0106977
+       1004475.5       0.00899166
+         1104923       0.00757456
+       1215415.4       0.00639347
+       1336956.9       0.00541821
+       1470652.6        0.0046159
+       1617717.8       0.00393685
+       1779489.6       0.00339308
+       1957438.6       0.00295255
+       2153182.4       0.00258761
+       2368500.7       0.00229021
+       2605350.8       0.00204332
+       2865885.8       0.00183146
+       3152474.4       0.00164912
+       3467721.9       0.00148519
+         3814494       0.00133658
+       4195943.4       0.00119697
+       4615537.8        0.0010665
+       5077091.6      0.000941964
+       5584800.7      0.000826559
+       6143280.8      0.000719114
+       6757608.9       0.00062303
+       7433369.8       0.00053882
+       8176706.7      0.000470187
+       8994377.4      0.000414325
+       9893815.1      0.000367109
+&
+@target G0.S4
+@type xy
+               0       0.15801063
+             1.1       0.15801063
+            1.21       0.15801063
+           1.331       0.15801063
+          1.4641       0.15801063
+         1.61051       0.15801063
+        1.771561       0.15801063
+       1.9487171       0.15801063
+       2.1435888       0.15801063
+       2.3579477       0.15801063
+       2.5937425       0.15801063
+       2.8531167       0.15801063
+       3.1384284       0.15801063
+       3.4522712       0.15801063
+       3.7974983       0.15801063
+       4.1772482       0.15801063
+        4.594973       0.15801063
+       5.0544703       0.15801063
+       5.5599173       0.15801063
+        6.115909       0.15801063
+       6.7274999       0.15801063
+       7.4002499       0.15801063
+       8.1402749       0.15801063
+       8.9543024       0.15801063
+       9.8497327       0.15801063
+       10.834706       0.15801063
+       11.918177       0.15801063
+       13.109994       0.15801063
+       14.420994       0.15801063
+       15.863093       0.15801063
+       17.449402       0.15801063
+       19.194342       0.15801063
+       21.113777       0.15801063
+       23.225154       0.15801063
+        25.54767       0.15801063
+       28.102437       0.15801063
+       30.912681       0.15801063
+       34.003949       0.15801063
+       37.404343       0.15801062
+       41.144778       0.15801062
+       45.259256       0.15801062
+       49.785181       0.15801062
+       54.763699       0.15801061
+       60.240069       0.15801061
+       66.264076        0.1580106
+       72.890484        0.1580106
+       80.179532       0.15801059
+       88.197485       0.15801058
+       97.017234       0.15801057
+       106.71896       0.15801055
+       117.39085       0.15801054
+       129.12994       0.15801052
+       142.04293       0.15801049
+       156.24723       0.15801046
+       171.87195       0.15801043
+       189.05914       0.15801039
+       207.96506       0.15801033
+       228.76156       0.15801027
+       251.63772       0.15801019
+       276.80149        0.1580101
+       304.48164       0.15800999
+        334.9298       0.15800986
+       368.42278       0.15800969
+       405.26506       0.15800949
+       445.79157       0.15800925
+       490.37073       0.15800897
+        539.4078       0.15800862
+       593.34858       0.15800819
+       652.68344       0.15800768
+       717.95178       0.15800706
+       789.74696       0.15800631
+       868.72165        0.1580054
+       955.59382        0.1580043
+       1051.1532       0.15800297
+       1156.2685       0.15800136
+       1271.8954       0.15799941
+       1399.0849       0.15799706
+       1538.9934       0.15799421
+       1692.8927       0.15799076
+        1862.182       0.15798658
+       2048.4002       0.15798153
+       2253.2402       0.15797542
+       2478.5643       0.15796803
+       2726.4207       0.15795909
+       2999.0628       0.15794827
+        3298.969       0.15793518
+       3628.8659       0.15791935
+       3991.7525        0.1579002
+       4390.9278       0.15787703
+       4830.0206       0.15784901
+       5313.0226       0.15781513
+       5844.3249       0.15777415
+       6428.7574       0.15772461
+       7071.6331       0.15766472
+       7778.7964       0.15759233
+        8556.676       0.15750486
+       9412.3437       0.15739918
+       10353.578       0.15727157
+       11388.936       0.15711752
+       12527.829       0.15693165
+       13780.612       0.15670751
+       15158.674       0.15643743
+       16674.541       0.15611227
+       18341.995       0.15572118
+       20176.195       0.15525139
+       22193.814       0.15468788
+       24413.195       0.15401316
+       26854.515       0.15320698
+       29539.966       0.15224613
+       32493.963       0.15110432
+       35743.359       0.14975222
+       39317.695       0.14815767
+       43249.465       0.14628621
+       47574.411       0.14410196
+       52331.852       0.14156896
+       57565.038       0.13865302
+       63321.541       0.13532402
+       69653.696       0.13155863
+       76619.065       0.12734323
+       84280.972        0.1226768
+       92709.069       0.11757323
+       101979.98       0.11206284
+       112177.97       0.10619255
+       123395.77       0.10002472
+       135735.35      0.093634381
+       149308.88       0.08710547
+       164239.77      0.080526227
+       180663.75      0.073984529
+       198730.12      0.067563596
+       218603.13      0.061338504
+       240463.45      0.055373688
+       264509.79      0.049721474
+       290960.77      0.044421508
+       320056.85      0.039500922
+       352062.53       0.03497502
+       387268.79      0.030848353
+       425995.67       0.02711602
+       468595.23      0.023765131
+       515454.76      0.020776349
+       567000.23      0.018125479
+       623700.26      0.015785124
+       686070.28      0.013726404
+       754677.31      0.011920756
+       830145.04      0.010341663
+       913159.54     0.0089659308
+       1004475.5     0.0077737773
+         1104923     0.0067470924
+       1215415.4     0.0058663066
+       1336956.9     0.0051085796
+       1470652.6     0.0044511748
+       1617717.8       0.00387918
+       1779489.6     0.0033870701
+       1957438.6     0.0029668768
+       2153182.4     0.0026025871
+       2368500.7     0.0022865751
+       2605350.8     0.0020155088
+       2865885.8     0.0017749525
+       3152474.4     0.0015659649
+       3467721.9     0.0013779101
+         3814494     0.0012123231
+       4195943.4     0.0010611247
+       4615537.8    0.00092728379
+       5077091.6    0.00080686734
+       5584800.7      0.000699414
+       6143280.8    0.00060583451
+       6757608.9    0.00052550422
+       7433369.8    0.00045680431
+       8176706.7    0.00040041615
+       8994377.4    0.00035381195
+       9893815.1    0.00031306256
+&
+@target G0.S5
+@type xy
+               0       0.14098491
+             1.1         0.140735
+            1.21       0.14072213
+           1.331       0.14070863
+          1.4641       0.14069468
+         1.61051        0.1406803
+        1.771561       0.14066542
+       1.9487171        0.1406499
+       2.1435888       0.14063362
+       2.3579477       0.14061651
+       2.5937425       0.14059854
+       2.8531167       0.14057968
+       3.1384284       0.14055989
+       3.4522712       0.14053915
+       3.7974983       0.14051739
+       4.1772482       0.14049457
+        4.594973       0.14047064
+       5.0544703       0.14044554
+       5.5599173       0.14041922
+        6.115909       0.14039161
+       6.7274999       0.14036265
+       7.4002499       0.14033228
+       8.1402749       0.14030042
+       8.9543024       0.14026701
+       9.8497327       0.14023198
+       10.834706       0.14019523
+       11.918177       0.14015669
+       13.109994       0.14011626
+       14.420994       0.14007387
+       15.863093        0.1400294
+       17.449402       0.13998277
+       19.194342       0.13993385
+       21.113777       0.13988256
+       23.225154       0.13982876
+        25.54767       0.13977233
+       28.102437       0.13971315
+       30.912681       0.13965108
+       34.003949       0.13958598
+       37.404343       0.13951771
+       41.144778        0.1394461
+       45.259256         0.139371
+       49.785181       0.13929224
+       54.763699       0.13920963
+       60.240069       0.13912299
+       66.264076       0.13903212
+       72.890484       0.13893682
+       80.179532       0.13883687
+       88.197485       0.13873204
+       97.017234        0.1386221
+       106.71896       0.13850679
+       117.39085       0.13838586
+       129.12994       0.13825902
+       142.04293       0.13812599
+       156.24723       0.13798648
+       171.87195       0.13784015
+       189.05914       0.13768668
+       207.96506       0.13752573
+       228.76156       0.13735691
+       251.63772       0.13717985
+       276.80149       0.13699415
+       304.48164       0.13679938
+        334.9298       0.13659509
+       368.42278       0.13638082
+       405.26506       0.13615607
+       445.79157       0.13592033
+       490.37073       0.13567306
+        539.4078       0.13541367
+       593.34858       0.13514158
+       652.68344       0.13485614
+       717.95178       0.13455668
+       789.74696        0.1342425
+       868.72165       0.13391286
+       955.59382       0.13356695
+       1051.1532       0.13320395
+       1156.2685       0.13282296
+       1271.8954       0.13242305
+       1399.0849       0.13200322
+       1538.9934       0.13156238
+       1692.8927        0.1310994
+        1862.182       0.13061306
+       2048.4002       0.13010203
+       2253.2402       0.12956492
+       2478.5643       0.12900018
+       2726.4207       0.12840619
+       2999.0628       0.12778115
+        3298.969       0.12712314
+       3628.8659       0.12643007
+       3991.7525       0.12569969
+       4390.9278       0.12492953
+       4830.0206       0.12411699
+       5313.0226       0.12325924
+       5844.3249        0.1223533
+       6428.7574       0.12139604
+       7071.6331       0.12038422
+       7778.7964       0.11931457
+        8556.676       0.11818383
+       9412.3437       0.11698882
+       10353.578       0.11572654
+       11388.936       0.11439408
+       12527.829       0.11298859
+       13780.612       0.11150697
+       15158.674       0.10994556
+       16674.541       0.10829981
+       18341.995       0.10656428
+       20176.195       0.10473344
+       22193.814       0.10280357
+       24413.195       0.10077511
+       26854.515      0.098653279
+       29539.966      0.096442795
+       32493.963      0.094135359
+       35743.359      0.091698551
+       39317.695      0.089088552
+       43249.465      0.086297426
+       47574.411      0.083382696
+       52331.852      0.080389485
+       57565.038      0.077246536
+       63321.541      0.073911616
+       69653.696      0.070548054
+       76619.065      0.067149497
+       84280.972        0.0635289
+       92709.069      0.059853598
+       101979.98      0.056091119
+       112177.97      0.052310649
+       123395.77       0.04857073
+       135735.35      0.044790981
+       149308.88      0.041136843
+       164239.77      0.037693908
+       180663.75      0.034185859
+       198730.12      0.030953441
+       218603.13      0.027773661
+       240463.45      0.024808743
+       264509.79      0.022011035
+       290960.77      0.019425762
+       320056.85       0.01706303
+       352062.53      0.014863207
+       387268.79      0.012856937
+       425995.67      0.011023646
+       468595.23     0.0093079803
+       515454.76     0.0077443509
+       567000.23     0.0063684297
+       623700.26     0.0051279778
+       686070.28     0.0040617073
+       754677.31     0.0031268061
+       830145.04     0.0023618805
+       913159.54     0.0017317289
+       1004475.5     0.0012178779
+         1104923    0.00082746958
+       1215415.4    0.00052716285
+       1336956.9    0.00030963167
+       1470652.6     0.0001647244
+       1617717.8    5.7671052e-05
+       1779489.6    6.0054246e-06
+       1957438.6   -1.4322704e-05
+       2153182.4   -1.4979387e-05
+       2368500.7     3.632618e-06
+       2605350.8     2.781155e-05
+       2865885.8    5.6505675e-05
+       3152474.4    8.3154668e-05
+       3467721.9    0.00010728468
+         3814494    0.00012425967
+       4195943.4     0.0001358478
+       4615537.8    0.00013921229
+       5077091.6    0.00013509659
+       5584800.7    0.00012714481
+       6143280.8     0.0001132794
+       6757608.9    9.7525356e-05
+       7433369.8     8.201573e-05
+       8176706.7    6.9771196e-05
+       8994377.4    6.0512815e-05
+       9893815.1    5.4046493e-05
+&
+@target G0.S6
+@type xy
+               0         0.304192
+             1.1         0.303943
+            1.21          0.30393
+           1.331         0.303917
+          1.4641         0.303902
+         1.61051         0.303888
+        1.771561         0.303873
+       1.9487171         0.303857
+       2.1435888         0.303841
+       2.3579477         0.303824
+       2.5937425         0.303806
+       2.8531167         0.303787
+       3.1384284         0.303767
+       3.4522712         0.303747
+       3.7974983         0.303725
+       4.1772482         0.303702
+        4.594973         0.303678
+       5.0544703         0.303653
+       5.5599173         0.303627
+        6.115909         0.303599
+       6.7274999          0.30357
+       7.4002499          0.30354
+       8.1402749         0.303508
+       8.9543024         0.303474
+       9.8497327         0.303439
+       10.834706         0.303403
+       11.918177         0.303364
+       13.109994         0.303324
+       14.420994         0.303281
+       15.863093         0.303237
+       17.449402          0.30319
+       19.194342         0.303141
+       21.113777          0.30309
+       23.225154         0.303036
+        25.54767          0.30298
+       28.102437          0.30292
+       30.912681         0.302858
+       34.003949         0.302793
+       37.404343         0.302725
+       41.144778         0.302653
+       45.259256         0.302578
+       49.785181           0.3025
+       54.763699         0.302417
+       60.240069          0.30233
+       66.264076         0.302239
+       72.890484         0.302144
+       80.179532         0.302044
+       88.197485         0.301939
+       97.017234         0.301829
+       106.71896         0.301714
+       117.39085         0.301593
+       129.12994         0.301466
+       142.04293         0.301333
+       156.24723         0.301194
+       171.87195         0.301047
+       189.05914         0.300894
+       207.96506         0.300733
+       228.76156         0.300564
+       251.63772         0.300387
+       276.80149         0.300201
+       304.48164         0.300006
+        334.9298         0.299801
+       368.42278         0.299587
+       405.26506         0.299362
+       445.79157         0.299126
+       490.37073         0.298878
+        539.4078         0.298618
+       593.34858         0.298346
+       652.68344         0.298059
+       717.95178         0.297759
+       789.74696         0.297444
+       868.72165         0.297113
+       955.59382         0.296766
+       1051.1532         0.296401
+       1156.2685         0.296018
+       1271.8954         0.295615
+       1399.0849         0.295192
+       1538.9934         0.294748
+       1692.8927          0.29428
+        1862.182         0.293789
+       2048.4002         0.293271
+       2253.2402         0.292726
+       2478.5643         0.292152
+       2726.4207         0.291546
+       2999.0628         0.290907
+        3298.969         0.290233
+       3628.8659         0.289519
+       3991.7525         0.288765
+       4390.9278         0.287966
+       4830.0206         0.287118
+       5313.0226         0.286218
+       5844.3249         0.285261
+       6428.7574         0.284243
+       7071.6331         0.283158
+       7778.7964         0.282001
+        8556.676         0.280765
+       9412.3437         0.279445
+       10353.578         0.278032
+       11388.936         0.276521
+       12527.829         0.274902
+       13780.612         0.273165
+       15158.674         0.271299
+       16674.541         0.269291
+       18341.995         0.267123
+       20176.195         0.264776
+       22193.814         0.262232
+       24413.195         0.259475
+       26854.515         0.256489
+       29539.966         0.253257
+       32493.963         0.249744
+       35743.359         0.245884
+       39317.695         0.241596
+       43249.465         0.236837
+       47574.411         0.231636
+       52331.852         0.226006
+       57565.038         0.219835
+       63321.541         0.213044
+       69653.696         0.205792
+       76619.065         0.198058
+       84280.972          0.18963
+       92709.069         0.180709
+       101979.98         0.171285
+       112177.97         0.161483
+       123395.77         0.151427
+       135735.35         0.141101
+       149308.88         0.130771
+       164239.77         0.120619
+       180663.75         0.110422
+       198730.12         0.100642
+       218603.13        0.0911027
+       240463.45          0.08205
+       264509.79        0.0734817
+       290960.77        0.0654883
+       320056.85        0.0581083
+       352062.53        0.0512903
+       387268.79        0.0450732
+       425995.67        0.0394285
+       468595.23        0.0342794
+       515454.76        0.0296425
+       567000.23        0.0255303
+       623700.26        0.0218544
+       686070.28        0.0186289
+       754677.31        0.0157801
+       830145.04        0.0133299
+       913159.54        0.0112218
+       1004475.5       0.00942107
+         1104923       0.00792149
+       1215415.4       0.00666851
+       1336956.9       0.00563241
+       1470652.6       0.00477992
+       1617717.8       0.00405782
+       1779489.6        0.0034808
+       1957438.6       0.00301441
+       2153182.4       0.00262987
+       2368500.7       0.00231906
+       2605350.8       0.00206296
+       2865885.8       0.00184562
+       3152474.4       0.00166014
+       3467721.9       0.00149492
+         3814494       0.00134575
+       4195943.4       0.00120616
+       4615537.8       0.00107552
+       5077091.6      0.000950491
+       5584800.7       0.00083448
+       6143280.8      0.000725887
+       6757608.9      0.000628494
+       7433369.8      0.000543015
+       8176706.7      0.000473455
+       8994377.4       0.00041697
+       9893815.1      0.000369443
+&
+@target G0.S7
+@type xy
+               0       0.15575374
+             1.1       0.15575374
+            1.21       0.15575374
+           1.331       0.15575374
+          1.4641       0.15575374
+         1.61051       0.15575374
+        1.771561       0.15575374
+       1.9487171       0.15575374
+       2.1435888       0.15575374
+       2.3579477       0.15575374
+       2.5937425       0.15575374
+       2.8531167       0.15575374
+       3.1384284       0.15575374
+       3.4522712       0.15575374
+       3.7974983       0.15575374
+       4.1772482       0.15575374
+        4.594973       0.15575374
+       5.0544703       0.15575374
+       5.5599173       0.15575374
+        6.115909       0.15575374
+       6.7274999       0.15575374
+       7.4002499       0.15575374
+       8.1402749       0.15575374
+       8.9543024       0.15575374
+       9.8497327       0.15575374
+       10.834706       0.15575374
+       11.918177       0.15575374
+       13.109994       0.15575374
+       14.420994       0.15575374
+       15.863093       0.15575374
+       17.449402       0.15575374
+       19.194342       0.15575374
+       21.113777       0.15575374
+       23.225154       0.15575374
+        25.54767       0.15575373
+       28.102437       0.15575373
+       30.912681       0.15575373
+       34.003949       0.15575373
+       37.404343       0.15575373
+       41.144778       0.15575373
+       45.259256       0.15575373
+       49.785181       0.15575372
+       54.763699       0.15575372
+       60.240069       0.15575371
+       66.264076       0.15575371
+       72.890484        0.1557537
+       80.179532        0.1557537
+       88.197485       0.15575369
+       97.017234       0.15575368
+       106.71896       0.15575366
+       117.39085       0.15575365
+       129.12994       0.15575363
+       142.04293        0.1557536
+       156.24723       0.15575357
+       171.87195       0.15575354
+       189.05914       0.15575349
+       207.96506       0.15575344
+       228.76156       0.15575338
+       251.63772       0.15575331
+       276.80149       0.15575322
+       304.48164       0.15575311
+        334.9298       0.15575297
+       368.42278       0.15575281
+       405.26506       0.15575262
+       445.79157       0.15575238
+       490.37073        0.1557521
+        539.4078       0.15575175
+       593.34858       0.15575133
+       652.68344       0.15575083
+       717.95178       0.15575021
+       789.74696       0.15574947
+       868.72165       0.15574858
+       955.59382        0.1557475
+       1051.1532       0.15574618
+       1156.2685        0.1557446
+       1271.8954       0.15574268
+       1399.0849       0.15574036
+       1538.9934       0.15573755
+       1692.8927       0.15573415
+        1862.182       0.15573003
+       2048.4002       0.15572505
+       2253.2402       0.15571903
+       2478.5643       0.15571175
+       2726.4207       0.15570293
+       2999.0628       0.15569227
+        3298.969       0.15567937
+       3628.8659       0.15566376
+       3991.7525       0.15564488
+       4390.9278       0.15562205
+       4830.0206       0.15559443
+       5313.0226       0.15556103
+       5844.3249       0.15552064
+       6428.7574        0.1554718
+       7071.6331       0.15541277
+       7778.7964       0.15534141
+        8556.676       0.15525519
+       9412.3437       0.15515102
+       10353.578       0.15502523
+       11388.936       0.15487338
+       12527.829       0.15469016
+       13780.612       0.15446923
+       15158.674       0.15420301
+       16674.541       0.15388249
+       18341.995       0.15349698
+       20176.195        0.1530339
+       22193.814       0.15247845
+       24413.195       0.15181337
+       26854.515        0.1510187
+       29539.966       0.15007157
+       32493.963       0.14894607
+       35743.359       0.14761329
+       39317.695       0.14604151
+       43249.465       0.14419678
+       47574.411       0.14204372
+       52331.852        0.1395469
+       57565.038       0.13667262
+       63321.541       0.13339116
+       69653.696       0.12967955
+       76619.065       0.12552437
+       84280.972       0.12092459
+       92709.069       0.11589392
+       101979.98       0.11046222
+       112177.97       0.10467579
+       123395.77      0.098596046
+       135735.35      0.092296985
+       149308.88      0.085861327
+       164239.77      0.079376057
+       180663.75      0.072927795
+       198730.12      0.066598573
+       218603.13      0.060462395
+       240463.45      0.054582776
+       264509.79      0.049011293
+       290960.77      0.043787028
+       320056.85      0.038936723
+       352062.53      0.034475466
+       387268.79       0.03040774
+       425995.67      0.026728717
+       468595.23       0.02342569
+       515454.76      0.020479596
+       567000.23       0.01786659
+       623700.26      0.015559662
+       686070.28      0.013530348
+       754677.31      0.011750489
+       830145.04      0.010193951
+       913159.54     0.0088378688
+       1004475.5     0.0076627431
+         1104923     0.0066507225
+       1215415.4     0.0057825171
+       1336956.9     0.0050356128
+       1470652.6     0.0043875978
+       1617717.8     0.0038237729
+       1779489.6      0.003338692
+       1957438.6     0.0029245003
+       2153182.4     0.0025654139
+       2368500.7     0.0022539156
+       2605350.8      0.001986721
+       2865885.8     0.0017496005
+       3152474.4     0.0015435979
+       3467721.9     0.0013582291
+         3814494     0.0011950073
+       4195943.4     0.0010459685
+       4615537.8    0.00091403923
+       5077091.6    0.00079534271
+       5584800.7    0.00068942415
+       6143280.8    0.00059718127
+       6757608.9    0.00051799835
+       7433369.8    0.00045027969
+       8176706.7    0.00039469694
+       8994377.4    0.00034875839
+       9893815.1    0.00030859104
+&
+@target G0.S8
+@type xy
+               0       0.14843852
+             1.1         0.148189
+            1.21       0.14817629
+           1.331       0.14816278
+          1.4641       0.14814865
+         1.61051       0.14813406
+        1.771561       0.14811903
+       1.9487171       0.14810345
+       2.1435888       0.14808718
+       2.3579477        0.1480701
+       2.5937425       0.14805215
+       2.8531167        0.1480333
+       3.1384284       0.14801351
+       3.4522712       0.14799276
+       3.7974983       0.14797101
+       4.1772482       0.14794819
+        4.594973       0.14792426
+       5.0544703       0.14789916
+       5.5599173       0.14787283
+        6.115909       0.14784522
+       6.7274999       0.14781626
+       7.4002499       0.14778589
+       8.1402749       0.14775404
+       8.9543024       0.14772063
+       9.8497327       0.14768559
+       10.834706       0.14764884
+       11.918177        0.1476103
+       13.109994       0.14756988
+       14.420994       0.14752748
+       15.863093       0.14748301
+       17.449402       0.14743638
+       19.194342       0.14738747
+       21.113777       0.14733617
+       23.225154       0.14728237
+        25.54767       0.14722594
+       28.102437       0.14716676
+       30.912681       0.14710469
+       34.003949       0.14703959
+       37.404343       0.14697131
+       41.144778       0.14689971
+       45.259256        0.1468246
+       49.785181       0.14674584
+       54.763699       0.14666323
+       60.240069       0.14657658
+       66.264076       0.14648571
+       72.890484       0.14639041
+       80.179532       0.14629045
+       88.197485       0.14618562
+       97.017234       0.14607567
+       106.71896       0.14596035
+       117.39085       0.14583941
+       129.12994       0.14571256
+       142.04293       0.14557952
+       156.24723       0.14543999
+       171.87195       0.14529365
+       189.05914       0.14514016
+       207.96506       0.14497918
+       228.76156       0.14481033
+       251.63772       0.14463324
+       276.80149        0.1444475
+       304.48164       0.14425268
+        334.9298       0.14404833
+       368.42278       0.14383399
+       405.26506       0.14360917
+       445.79157       0.14337333
+       490.37073       0.14312594
+        539.4078       0.14286642
+       593.34858       0.14259417
+       652.68344       0.14230854
+       717.95178       0.14200885
+       789.74696       0.14169441
+       868.72165       0.14136444
+       955.59382       0.14101815
+       1051.1532       0.14065469
+       1156.2685       0.14027316
+       1271.8954        0.1398726
+       1399.0849       0.13945199
+       1538.9934       0.13901023
+       1692.8927       0.13854614
+        1862.182       0.13805848
+       2048.4002       0.13754589
+       2253.2402        0.1370069
+       2478.5643       0.13643993
+       2726.4207       0.13584327
+       2999.0628       0.13521505
+        3298.969       0.13455327
+       3628.8659       0.13385571
+       3991.7525       0.13311999
+       4390.9278       0.13234352
+       4830.0206       0.13152351
+       5313.0226       0.13065697
+       5844.3249        0.1297407
+       6428.7574       0.12877136
+       7071.6331       0.12774549
+       7778.7964       0.12665958
+        8556.676       0.12551012
+       9412.3437       0.12429374
+       10353.578       0.12300721
+       11388.936       0.12164743
+       12527.829       0.12021134
+       13780.612       0.11869561
+       15158.674       0.11709626
+       16674.541       0.11540828
+       18341.995       0.11362567
+       20176.195       0.11174228
+       22193.814       0.10975396
+       24413.195       0.10766123
+       26854.515       0.10546987
+       29539.966       0.10318511
+       32493.963       0.10079748
+       35743.359      0.098270388
+       39317.695      0.095554368
+       43249.465      0.092640147
+       47574.411      0.089591826
+       52331.852      0.086459491
+       57565.038      0.083162515
+       63321.541      0.079652732
+       69653.696      0.076112562
+       76619.065      0.072533886
+       84280.972      0.068705702
+       92709.069      0.064814616
+       101979.98       0.06082293
+       112177.97      0.056806978
+       123395.77      0.052831132
+       135735.35      0.048803881
+       149308.88      0.044909652
+       164239.77      0.041243378
+       180663.75      0.037494017
+       198730.12      0.034043238
+       218603.13      0.030640331
+       240463.45      0.027467184
+       264509.79      0.024470456
+       290960.77       0.02170129
+       320056.85      0.019171557
+       352062.53      0.016814797
+       387268.79      0.014665474
+       425995.67      0.012699776
+       468595.23      0.010853721
+       515454.76     0.0091628969
+       567000.23     0.0076637319
+       623700.26     0.0062947036
+       686070.28     0.0050985597
+       754677.31     0.0040295694
+       830145.04     0.0031359106
+       913159.54     0.0023839715
+       1004475.5     0.0017583315
+         1104923      0.001270769
+       1215415.4     0.0008859941
+       1336956.9    0.00059679556
+       1470652.6    0.00039232452
+       1617717.8    0.00023404233
+       1779489.6    0.00014211135
+       1957438.6    8.9905076e-05
+       2153182.4     6.445178e-05
+       2368500.7    6.5146432e-05
+       2605350.8    7.6234568e-05
+       2865885.8      9.60148e-05
+       3152474.4    0.00011654019
+       3467721.9    0.00013669494
+         3814494    0.00015073805
+       4195943.4    0.00016018834
+       4615537.8     0.0001614803
+       5077091.6    0.00015514863
+       5584800.7    0.00014505634
+       6143280.8    0.00012870582
+       6757608.9    0.00011049533
+       7433369.8    9.2735383e-05
+       8176706.7    7.8758389e-05
+       8994377.4    6.8212063e-05
+       9893815.1    6.0852055e-05
+&
